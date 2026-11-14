@@ -1,0 +1,267 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-14T00:00:00.000Z",
+  "studioCatalog": [
+    {
+      "id": "snapmind",
+      "packageName": "com.melih.snapmind",
+      "nameTr": "SnapMind: Ekran Görüntüsü & OCR",
+      "nameEn": "SnapMind: Image to Text & OCR",
+      "taglineTr": "Cihaz içi akıllı OCR, IBAN/tarih yakalama, hatırlatıcı ve şifreli kasa.",
+      "taglineEn": "On-device ML Kit OCR screenshot organizer, smart reminders & secure vault.",
+      "badgeTr": "Üretkenlik",
+      "badgeEn": "Productivity",
+      "iconEmoji": "🧠",
+      "accentColor": "#38BDF8",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.melih.snapmind",
+      "isLive": true
+    },
+    {
+      "id": "lumiawalls",
+      "packageName": "com.melih.lumiawalls",
+      "nameTr": "LumiaWalls 4K: AMOLED Stüdyo",
+      "nameEn": "LumiaWalls 4K: AMOLED Studio",
+      "taglineTr": "Gerçek siyah AMOLED, 4K & 8K özel duvar kağıtları ve stüdyo editörü.",
+      "taglineEn": "True-black AMOLED, 4K & 8K custom wallpapers and personal studio.",
+      "badgeTr": "Kişiselleştirme",
+      "badgeEn": "Personalization",
+      "iconEmoji": "💎",
+      "accentColor": "#818CF8",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.melih.lumiawalls",
+      "isLive": true
+    },
+    {
+      "id": "bilgiarenasi",
+      "packageName": "com.melih.bilgiarenasi",
+      "nameTr": "Bilgi Arenası: Bilgi Yarışması",
+      "nameEn": "Bilgi Arenası: Trivia Leagues",
+      "taglineTr": "18 kategoride 3.000+ soru, günlük görevler, düellolar ve lig kupaları.",
+      "taglineEn": "3,000+ trivia questions across 18 categories, daily quests & leagues.",
+      "badgeTr": "Bilgi Oyunu",
+      "badgeEn": "Trivia Game",
+      "iconEmoji": "🏆",
+      "accentColor": "#F59E0B",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.melih.bilgiarenasi",
+      "isLive": true
+    },
+    {
+      "id": "kizilkatedral",
+      "packageName": "com.gotikgames.kizilkatedral",
+      "nameTr": "Kızıl Katedral: Aksiyon RPG",
+      "nameEn": "Crimson Cathedral: Action RPG",
+      "taglineTr": "Gotik 2D Soulslike aksiyon, zorlu boss savaşları ve zindan keşfi.",
+      "taglineEn": "Dark gothic 2D Soulslike action RPG with intense boss encounters.",
+      "badgeTr": "Aksiyon RPG",
+      "badgeEn": "Action RPG",
+      "iconEmoji": "⚔️",
+      "accentColor": "#EF4444",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.gotikgames.kizilkatedral",
+      "isLive": true
+    },
+    {
+      "id": "wallify",
+      "packageName": "com.wallify.wallpapers",
+      "nameTr": "Wallify: HD, 4K & Canlı Duvar Kağıtları",
+      "nameEn": "Wallify: HD, 4K & Live Wallpapers",
+      "taglineTr": "AI duvar kağıdı üretimi, otomatik değiştirici ve canlı duvar kağıtları.",
+      "taglineEn": "Curated HD/4K wallpapers, AI generator, widgets & auto-changer.",
+      "badgeTr": "Duvar Kağıdı",
+      "badgeEn": "Wallpapers",
+      "iconEmoji": "🖼️",
+      "accentColor": "#A855F7",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.wallify.wallpapers",
+      "isLive": true
+    },
+    {
+      "id": "seri",
+      "packageName": "com.melihdokuzlar.seri",
+      "nameTr": "Seri: Alışkanlık & Odak Takibi",
+      "nameEn": "Seri: Habit Tracker & Focus",
+      "taglineTr": "Günlük seri zinciri, Pomodoro odak sayacı ve detaylı istatistikler.",
+      "taglineEn": "Daily habit streaks, Pomodoro focus timer and progress analytics.",
+      "badgeTr": "Alışkanlık",
+      "badgeEn": "Habits",
+      "iconEmoji": "🔥",
+      "accentColor": "#7C5CFF",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.melihdokuzlar.seri",
+      "isLive": true
+    },
+    {
+      "id": "kuryerota",
+      "packageName": "com.kuryerota.app",
+      "nameTr": "Kurye Rota: Paket & Navigasyon",
+      "nameEn": "Kurye Rota: Courier & Route",
+      "taglineTr": "Akıllı adres ayrıştırma, rota optimizasyonu ve teslimat kasa takibi.",
+      "taglineEn": "Smart address parsing, route optimization and cash tracking.",
+      "badgeTr": "Yakında",
+      "badgeEn": "Coming Soon",
+      "iconEmoji": "🛵",
+      "accentColor": "#10B981",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.kuryerota.app",
+      "isLive": false
+    }
+  ],
+  "apps": {
+    "com.melih.snapmind": {
+      "latestVersionCode": 9,
+      "minSupportedVersionCode": 1,
+      "ads": {
+        "enabled": true,
+        "interstitialEveryN": 3,
+        "interstitialCooldownSec": 180
+      },
+      "promoBanner": {
+        "enabled": false,
+        "id": "welcome_2026",
+        "titleTr": "",
+        "titleEn": "",
+        "subtitleTr": "",
+        "subtitleEn": "",
+        "ctaTextTr": "İncele",
+        "ctaTextEn": "Explore",
+        "targetUrl": ""
+      },
+      "crossPromo": {
+        "enabled": true
+      }
+    },
+    "com.melih.lumiawalls": {
+      "latestVersionCode": 13,
+      "minSupportedVersionCode": 1,
+      "ads": {
+        "enabled": true,
+        "interstitialEveryN": 3,
+        "interstitialCooldownSec": 180
+      },
+      "promoBanner": {
+        "enabled": false,
+        "id": "welcome_2026",
+        "titleTr": "",
+        "titleEn": "",
+        "subtitleTr": "",
+        "subtitleEn": "",
+        "ctaTextTr": "İncele",
+        "ctaTextEn": "Explore",
+        "targetUrl": ""
+      },
+      "crossPromo": {
+        "enabled": true
+      }
+    },
+    "com.melih.bilgiarenasi": {
+      "latestVersionCode": 9,
+      "minSupportedVersionCode": 1,
+      "ads": {
+        "enabled": true,
+        "interstitialEveryN": 2,
+        "interstitialCooldownSec": 180
+      },
+      "promoBanner": {
+        "enabled": false,
+        "id": "welcome_2026",
+        "titleTr": "",
+        "titleEn": "",
+        "subtitleTr": "",
+        "subtitleEn": "",
+        "ctaTextTr": "İncele",
+        "ctaTextEn": "Explore",
+        "targetUrl": ""
+      },
+      "crossPromo": {
+        "enabled": true
+      }
+    },
+    "com.gotikgames.kizilkatedral": {
+      "latestVersionCode": 4,
+      "minSupportedVersionCode": 1,
+      "ads": {
+        "enabled": true,
+        "interstitialEveryN": 1,
+        "interstitialCooldownSec": 180
+      },
+      "promoBanner": {
+        "enabled": false,
+        "id": "welcome_2026",
+        "titleTr": "",
+        "titleEn": "",
+        "subtitleTr": "",
+        "subtitleEn": "",
+        "ctaTextTr": "İncele",
+        "ctaTextEn": "Explore",
+        "targetUrl": ""
+      },
+      "crossPromo": {
+        "enabled": true
+      }
+    },
+    "com.wallify.wallpapers": {
+      "latestVersionCode": 6,
+      "minSupportedVersionCode": 1,
+      "ads": {
+        "enabled": true,
+        "interstitialEveryN": 4,
+        "interstitialCooldownSec": 180
+      },
+      "promoBanner": {
+        "enabled": false,
+        "id": "welcome_2026",
+        "titleTr": "",
+        "titleEn": "",
+        "subtitleTr": "",
+        "subtitleEn": "",
+        "ctaTextTr": "İncele",
+        "ctaTextEn": "Explore",
+        "targetUrl": ""
+      },
+      "crossPromo": {
+        "enabled": true
+      }
+    },
+    "com.melihdokuzlar.seri": {
+      "latestVersionCode": 12,
+      "minSupportedVersionCode": 1,
+      "ads": {
+        "enabled": true,
+        "interstitialEveryN": 3,
+        "interstitialCooldownSec": 180
+      },
+      "promoBanner": {
+        "enabled": false,
+        "id": "welcome_2026",
+        "titleTr": "",
+        "titleEn": "",
+        "subtitleTr": "",
+        "subtitleEn": "",
+        "ctaTextTr": "İncele",
+        "ctaTextEn": "Explore",
+        "targetUrl": ""
+      },
+      "crossPromo": {
+        "enabled": true
+      }
+    },
+    "com.kuryerota.app": {
+      "latestVersionCode": 2,
+      "minSupportedVersionCode": 1,
+      "ads": {
+        "enabled": true,
+        "interstitialEveryN": 4,
+        "interstitialCooldownSec": 180
+      },
+      "promoBanner": {
+        "enabled": false,
+        "id": "welcome_2026",
+        "titleTr": "",
+        "titleEn": "",
+        "subtitleTr": "",
+        "subtitleEn": "",
+        "ctaTextTr": "İncele",
+        "ctaTextEn": "Explore",
+        "targetUrl": ""
+      },
+      "crossPromo": {
+        "enabled": true
+      }
+    }
+  }
+}
