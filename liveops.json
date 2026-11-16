@@ -213,11 +213,11 @@
       }
     },
     "com.wallify.wallpapers": {
-      "latestVersionCode": 9,
-      "latestVersionName": "2.0.0",
+      "latestVersionCode": 10,
+      "latestVersionName": "2.1.0",
       "minSupportedVersionCode": 1,
       "aiProxyUrl": "https://lhtehujkxrgexihlmngr.supabase.co/functions/v1/wallify-ai-proxy",
-      "curatedFeedUrl": "https://lhtehujkxrgexihlmngr.supabase.co/functions/v1/wallify-curated",
+      "curatedFeedUrl": "https://melih-cell.github.io/wallify-curated-v2.json",
       "supabaseUrl": "https://lhtehujkxrgexihlmngr.supabase.co",
       "supabaseAnonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxodGVodWpreHJnZXhpaGxtbmdyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTQ4Mzc0ODMsImV4cCI6MjExMDQxMzQ4M30.kSoqw70yw1pRYju3eYrttY1pGckJeK7eGZLsi8c31Dw",
       "ads": {
