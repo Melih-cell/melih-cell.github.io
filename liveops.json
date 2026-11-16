@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-16T11:09:25.134Z",
+  "updatedAt": "2026-11-16T15:28:42.924Z",
   "studioCatalog": [
     {
       "id": "snapmind",
@@ -61,10 +61,10 @@
     {
       "id": "wallify",
       "packageName": "com.wallify.wallpapers",
-      "nameTr": "Wallify: HD, 4K & Canlı Duvar Kağıtları",
-      "nameEn": "Wallify: HD, 4K & Live Wallpapers",
-      "taglineTr": "AI duvar kağıdı üretimi, otomatik değiştirici ve canlı duvar kağıtları.",
-      "taglineEn": "Curated HD/4K wallpapers, AI generator, widgets & auto-changer.",
+      "nameTr": "Wallify: 4K, AI & 3D Duvar Kağıtları",
+      "nameEn": "Wallify: 4K, AI & 3D Wallpapers",
+      "taglineTr": "9:16 4K koleksiyonlar, gerçek AI Stüdyo, 3D Jiroskop Paralaks ve ekran çiftleri.",
+      "taglineEn": "Curated 9:16 4K packs, real AI Studio, 3D Gyro Parallax & matched screen pairs.",
       "badgeTr": "Duvar Kağıdı",
       "badgeEn": "Wallpapers",
       "iconEmoji": "🖼️",
@@ -196,8 +196,13 @@
       }
     },
     "com.wallify.wallpapers": {
-      "latestVersionCode": 8,
+      "latestVersionCode": 9,
+      "latestVersionName": "2.0.0",
       "minSupportedVersionCode": 1,
+      "aiProxyUrl": "https://lhtehujkxrgexihlmngr.supabase.co/functions/v1/wallify-ai-proxy",
+      "curatedFeedUrl": "https://lhtehujkxrgexihlmngr.supabase.co/functions/v1/wallify-curated",
+      "supabaseUrl": "https://lhtehujkxrgexihlmngr.supabase.co",
+      "supabaseAnonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxodGVodWpreHJnZXhpaGxtbmdyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTQ4Mzc0ODMsImV4cCI6MjExMDQxMzQ4M30.kSoqw70yw1pRYju3eYrttY1pGckJeK7eGZLsi8c31Dw",
       "ads": {
         "enabled": true,
         "interstitialEveryN": 4,
@@ -219,7 +224,7 @@
       }
     },
     "com.melihdokuzlar.seri": {
-      "latestVersionCode": 13,
+      "latestVersionCode": 14,
       "minSupportedVersionCode": 1,
       "ads": {
         "enabled": true,
