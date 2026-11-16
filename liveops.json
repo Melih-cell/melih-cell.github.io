@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-16T09:36:24.951Z",
+  "updatedAt": "2026-11-16T11:09:25.134Z",
   "studioCatalog": [
     {
       "id": "snapmind",
@@ -126,7 +126,8 @@
       }
     },
     "com.melih.lumiawalls": {
-      "latestVersionCode": 15,
+      "latestVersionCode": 16,
+      "latestVersionName": "1.2.0",
       "minSupportedVersionCode": 1,
       "ads": {
         "enabled": true,
@@ -218,7 +219,7 @@
       }
     },
     "com.melihdokuzlar.seri": {
-      "latestVersionCode": 12,
+      "latestVersionCode": 13,
       "minSupportedVersionCode": 1,
       "ads": {
         "enabled": true,
