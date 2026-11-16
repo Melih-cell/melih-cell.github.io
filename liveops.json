@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-14T14:06:48.802Z",
+  "updatedAt": "2026-11-16T09:36:24.951Z",
   "studioCatalog": [
     {
       "id": "snapmind",
@@ -103,7 +103,7 @@
   ],
   "apps": {
     "com.melih.snapmind": {
-      "latestVersionCode": 9,
+      "latestVersionCode": 10,
       "minSupportedVersionCode": 1,
       "ads": {
         "enabled": true,
@@ -149,7 +149,7 @@
       }
     },
     "com.melih.bilgiarenasi": {
-      "latestVersionCode": 9,
+      "latestVersionCode": 10,
       "minSupportedVersionCode": 1,
       "ads": {
         "enabled": true,
@@ -195,7 +195,7 @@
       }
     },
     "com.wallify.wallpapers": {
-      "latestVersionCode": 6,
+      "latestVersionCode": 8,
       "minSupportedVersionCode": 1,
       "ads": {
         "enabled": true,
