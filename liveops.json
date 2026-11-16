@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-16T15:28:42.924Z",
+  "updatedAt": "2026-11-16T22:10:00.000Z",
   "studioCatalog": [
     {
       "id": "snapmind",
@@ -131,8 +131,25 @@
       "minSupportedVersionCode": 1,
       "ads": {
         "enabled": true,
-        "interstitialEveryN": 3,
-        "interstitialCooldownSec": 180
+        "bannerEnabled": true,
+        "interstitialEnabled": true,
+        "rewardedEnabled": true,
+        "interstitialEveryN": 2,
+        "interstitialCooldownSec": 120,
+        "nativeEveryN": 12,
+        "appOpenCooldownHours": 3,
+        "adRewardCrystals": 25,
+        "nativeUnitId": "",
+        "appOpenUnitId": ""
+      },
+      "extras": {
+        "nativeUnitId": "",
+        "appOpenUnitId": "",
+        "appOpenEnabled": true,
+        "initialCrystals": 60,
+        "proUnlockCost": 50,
+        "pro3dUnlockCost": 80,
+        "aiUnlockCost": 40
       },
       "promoBanner": {
         "enabled": false,
