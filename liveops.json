@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-17T00:25:00.000Z",
+  "updatedAt": "2026-11-17T09:47:40.771Z",
   "studioCatalog": [
     {
       "id": "snapmind",
@@ -213,8 +213,8 @@
       }
     },
     "com.wallify.wallpapers": {
-      "latestVersionCode": 10,
-      "latestVersionName": "2.1.0",
+      "latestVersionCode": 11,
+      "latestVersionName": "2.1.1",
       "minSupportedVersionCode": 1,
       "aiProxyUrl": "https://lhtehujkxrgexihlmngr.supabase.co/functions/v1/wallify-ai-proxy",
       "curatedFeedUrl": "https://melih-cell.github.io/wallify-curated-v2.json",
