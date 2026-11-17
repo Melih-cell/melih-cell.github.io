@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-16T22:10:00.000Z",
+  "updatedAt": "2026-11-17T00:25:00.000Z",
   "studioCatalog": [
     {
       "id": "snapmind",
@@ -139,12 +139,12 @@
         "nativeEveryN": 12,
         "appOpenCooldownHours": 3,
         "adRewardCrystals": 25,
-        "nativeUnitId": "",
-        "appOpenUnitId": ""
+        "nativeUnitId": "ca-app-pub-7243391327243727/9690950812",
+        "appOpenUnitId": "ca-app-pub-7243391327243727/7917482952"
       },
       "extras": {
-        "nativeUnitId": "",
-        "appOpenUnitId": "",
+        "nativeUnitId": "ca-app-pub-7243391327243727/9690950812",
+        "appOpenUnitId": "ca-app-pub-7243391327243727/7917482952",
         "appOpenEnabled": true,
         "initialCrystals": 60,
         "proUnlockCost": 50,
