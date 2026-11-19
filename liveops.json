@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-19T14:23:19.568Z",
+  "updatedAt": "2026-11-19T22:19:15.911Z",
   "studioCatalog": [
     {
       "id": "snapmind",
@@ -60,17 +60,17 @@
     },
     {
       "id": "wallify",
-      "packageName": "com.wallify.wallpapers",
-      "nameTr": "Wallify: 4K, AI & 3D Duvar Kağıtları",
-      "nameEn": "Wallify: 4K, AI & 3D Wallpapers",
-      "taglineTr": "9:16 4K koleksiyonlar, gerçek AI Stüdyo, 3D Jiroskop Paralaks ve ekran çiftleri.",
-      "taglineEn": "Curated 9:16 4K packs, real AI Studio, 3D Gyro Parallax & matched screen pairs.",
-      "badgeTr": "Duvar Kağıdı",
-      "badgeEn": "Wallpapers",
+      "packageName": "com.velocestudio.wallify",
+      "nameTr": "Wallify Studio: 4K & 3D Duvar Kağıtları",
+      "nameEn": "Wallify Studio: 4K & 3D Wallpapers",
+      "taglineTr": "Editoryal 9:16 4K koleksiyonlar, Rehberli AI Stüdyo, 3D Jiroskop Paralaks ve ekran çiftleri.",
+      "taglineEn": "Editorial 9:16 4K packs, Guided AI Studio, 3D Gyro Parallax & matched screen pairs.",
+      "badgeTr": "Yakında",
+      "badgeEn": "Coming Soon",
       "iconEmoji": "🖼️",
       "accentColor": "#A855F7",
-      "storeUrl": "https://play.google.com/store/apps/details?id=com.wallify.wallpapers",
-      "isLive": true
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.velocestudio.wallify",
+      "isLive": false
     },
     {
       "id": "seri",
@@ -306,8 +306,8 @@
       }
     },
     "com.melih.kivilcim": {
-      "latestVersionCode": 1,
-      "latestVersionName": "1.0.0",
+      "latestVersionCode": 2,
+      "latestVersionName": "1.1.0",
       "minSupportedVersionCode": 1,
       "maintenanceMode": false,
       "maintenanceMessage": "",
@@ -330,6 +330,34 @@
       "promoBanner": {
         "enabled": false,
         "id": "welcome_2026",
+        "titleTr": "",
+        "titleEn": "",
+        "subtitleTr": "",
+        "subtitleEn": "",
+        "ctaTextTr": "İncele",
+        "ctaTextEn": "Explore",
+        "targetUrl": ""
+      },
+      "crossPromo": {
+        "enabled": true
+      }
+    },
+    "com.velocestudio.wallify": {
+      "latestVersionCode": 1,
+      "latestVersionName": "3.0.0",
+      "minSupportedVersionCode": 1,
+      "aiProxyUrl": "https://lhtehujkxrgexihlmngr.supabase.co/functions/v1/wallify-ai-proxy",
+      "curatedFeedUrl": "https://lhtehujkxrgexihlmngr.supabase.co/functions/v1/wallify-curated",
+      "supabaseUrl": "https://lhtehujkxrgexihlmngr.supabase.co",
+      "supabaseAnonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxodGVodWpreHJnZXhpaGxtbmdyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTQ4Mzc0ODMsImV4cCI6MjExMDQxMzQ4M30.kSoqw70yw1pRYju3eYrttY1pGckJeK7eGZLsi8c31Dw",
+      "ads": {
+        "enabled": true,
+        "interstitialEveryN": 5,
+        "interstitialCooldownSec": 180
+      },
+      "promoBanner": {
+        "enabled": false,
+        "id": "welcome_v3",
         "titleTr": "",
         "titleEn": "",
         "subtitleTr": "",
