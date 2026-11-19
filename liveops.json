@@ -319,8 +319,8 @@
         "rewardedEnabled": true,
         "interstitialEveryN": 3,
         "interstitialCooldownSec": 180,
-        "interstitialUnitId": "",
-        "rewardedUnitId": ""
+        "interstitialUnitId": "ca-app-pub-7243391327243727/1914360541",
+        "rewardedUnitId": "ca-app-pub-7243391327243727/2690713608"
       },
       "complianceUrls": {
         "privacyTerms": "https://melih-cell.github.io/kivilcim-privacy.html",
