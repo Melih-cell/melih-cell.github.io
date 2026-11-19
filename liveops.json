@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-18T13:24:20.279Z",
+  "updatedAt": "2026-11-19T10:52:31.806Z",
   "studioCatalog": [
     {
       "id": "snapmind",
@@ -103,10 +103,10 @@
     {
       "id": "kivilcim",
       "packageName": "com.melih.kivilcim",
-      "nameTr": "Sparka",
-      "nameEn": "Sparka",
-      "taglineTr": "Sparka (Kıvılcım) - Modern dating and chat app",
-      "taglineEn": "Sparka (Kıvılcım) - Modern dating and chat app",
+      "nameTr": "Vela",
+      "nameEn": "Vela",
+      "taglineTr": "Vela - Modern dating and chat app",
+      "taglineEn": "Vela - Modern dating and chat app",
       "badgeTr": "Yakında",
       "badgeEn": "Coming Soon",
       "iconEmoji": "📱",
@@ -137,7 +137,9 @@
       },
       "crossPromo": {
         "enabled": true
-      }
+      },
+      "pendingVersionCode": 11,
+      "pendingVersionName": "1.2.6"
     },
     "com.melih.lumiawalls": {
       "latestVersionCode": 16,
