@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-18T11:44:47.506Z",
+  "updatedAt": "2026-11-18T13:24:20.279Z",
   "studioCatalog": [
     {
       "id": "snapmind",
@@ -98,6 +98,20 @@
       "iconEmoji": "🛵",
       "accentColor": "#10B981",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.kuryerota.app",
+      "isLive": false
+    },
+    {
+      "id": "kivilcim",
+      "packageName": "com.melih.kivilcim",
+      "nameTr": "Sparka",
+      "nameEn": "Sparka",
+      "taglineTr": "Sparka (Kıvılcım) - Modern dating and chat app",
+      "taglineEn": "Sparka (Kıvılcım) - Modern dating and chat app",
+      "badgeTr": "Yakında",
+      "badgeEn": "Coming Soon",
+      "iconEmoji": "📱",
+      "accentColor": "#38BDF8",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.melih.kivilcim",
       "isLive": false
     }
   ],
@@ -244,6 +258,9 @@
     },
     "com.melihdokuzlar.seri": {
       "latestVersionCode": 14,
+      "latestVersionName": "3.0.0",
+      "pendingVersionCode": 15,
+      "pendingVersionName": "4.0.0",
       "minSupportedVersionCode": 1,
       "ads": {
         "enabled": true,
@@ -272,6 +289,43 @@
         "enabled": true,
         "interstitialEveryN": 4,
         "interstitialCooldownSec": 180
+      },
+      "promoBanner": {
+        "enabled": false,
+        "id": "welcome_2026",
+        "titleTr": "",
+        "titleEn": "",
+        "subtitleTr": "",
+        "subtitleEn": "",
+        "ctaTextTr": "İncele",
+        "ctaTextEn": "Explore",
+        "targetUrl": ""
+      },
+      "crossPromo": {
+        "enabled": true
+      }
+    },
+    "com.melih.kivilcim": {
+      "latestVersionCode": 1,
+      "latestVersionName": "1.0.0",
+      "minSupportedVersionCode": 1,
+      "maintenanceMode": false,
+      "maintenanceMessage": "",
+      "pushFunctionUrl": "https://lhtehujkxrgexihlmngr.supabase.co/functions/v1/kivilcim-push",
+      "ads": {
+        "enabled": true,
+        "bannerEnabled": false,
+        "interstitialEnabled": true,
+        "rewardedEnabled": true,
+        "interstitialEveryN": 3,
+        "interstitialCooldownSec": 180,
+        "interstitialUnitId": "",
+        "rewardedUnitId": ""
+      },
+      "complianceUrls": {
+        "privacyTerms": "https://melih-cell.github.io/kivilcim-privacy.html",
+        "accountDeletion": "https://melih-cell.github.io/kivilcim-delete-account.html",
+        "childSafety": "https://melih-cell.github.io/kivilcim-child-safety.html"
       },
       "promoBanner": {
         "enabled": false,
