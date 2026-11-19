@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-19T10:52:31.806Z",
+  "updatedAt": "2026-11-19T14:23:19.568Z",
   "studioCatalog": [
     {
       "id": "snapmind",
@@ -259,10 +259,8 @@
       }
     },
     "com.melihdokuzlar.seri": {
-      "latestVersionCode": 14,
-      "latestVersionName": "3.0.0",
-      "pendingVersionCode": 15,
-      "pendingVersionName": "4.0.0",
+      "latestVersionCode": 16,
+      "latestVersionName": "5.0.0",
       "minSupportedVersionCode": 1,
       "ads": {
         "enabled": true,
