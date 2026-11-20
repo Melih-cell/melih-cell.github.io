@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-20T12:24:30.000Z",
+  "updatedAt": "2026-11-20T17:06:32.742Z",
   "studioCatalog": [
     {
       "id": "snapmind",
@@ -203,7 +203,9 @@
       },
       "crossPromo": {
         "enabled": true
-      }
+      },
+      "pendingVersionCode": 11,
+      "pendingVersionName": "2.0.0"
     },
     "com.gotikgames.kizilkatedral": {
       "latestVersionCode": 4,
@@ -262,8 +264,8 @@
       }
     },
     "com.melihdokuzlar.seri": {
-      "latestVersionCode": 16,
-      "latestVersionName": "5.0.0",
+      "latestVersionCode": 17,
+      "latestVersionName": "5.1.0",
       "minSupportedVersionCode": 1,
       "ads": {
         "enabled": true,
