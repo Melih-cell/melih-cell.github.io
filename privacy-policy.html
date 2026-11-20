@@ -21,27 +21,32 @@
   <div class="wrap">
     <p style="margin-bottom:16px;"><a href="/">&larr; Veloce Labs Home</a></p>
     <h1>Privacy Policy</h1>
-    <p class="meta">Effective Date: November 9, 2026 &bull; Developer: Veloce Labs (Melih Dokuzlar)</p>
+    <p class="meta">Effective Date: November 20, 2026 &bull; Developer: Veloce Labs (Melih Dokuzlar)</p>
     <p>This Privacy Policy applies to all live mobile applications and games published by <strong>Veloce Labs</strong> on Google Play, including <em>Seri: Habit Tracker &amp; Focus</em>, <em>Wallify: HD &amp; 4K Wallpapers</em>, <em>LumiaWalls: AMOLED &amp; 8K Stüdyo</em>, <em>Bilgi Arenası: Bilgi Yarışması</em>, <em>Kızıl Katedral: Aksiyon RPG</em>, and <em>SnapMind: Image to Text &amp; OCR</em>.</p>
     <h2>1. Information Collection and Use</h2>
     <p>Most app data (such as preferences, game progress, habits, notes, OCR text recognition via on-device Google ML Kit, and custom wallpapers) is stored locally on your device. We do not sell your personal information.</p>
     <ul>
-      <li><strong>Advertising Identifiers:</strong> Free-tier versions of our apps use <strong>Google AdMob</strong> to display banners, interstitial, and rewarded advertisements. Google AdMob may collect device identifiers (such as the Android Advertising ID), coarse location, and diagnostics for ad serving, fraud prevention, and consent management (Google UMP / TCF v2.2).</li>
-      <li><strong>In-App Purchases:</strong> All subscriptions and one-time purchases are processed securely through <strong>Google Play Billing</strong>. We never access or store your credit card or banking details.</li>
-      <li><strong>Crash &amp; Analytics Data:</strong> Some apps use Google Play Services / Firebase Crashlytics &amp; Analytics to diagnose crashes and improve stability.</li>
+      <li><strong>Optional Cloud Sync &amp; Social Features (Seri / Supabase):</strong> In <em>Seri</em>, if you opt into Cloud Sync, Partner Streaks, Shared Campfires, or Weekly Leagues, encrypted habit backups and anonymous/email authentication records are stored securely on <strong>Supabase</strong>. Public league and campfire cards only display your chosen display name, avatar emoji, and completion percentage &mdash; never your personal habit names or journal notes.</li>
+      <li><strong>Optional AI Habit Coach (Seri / Google Gemini):</strong> Only when you explicitly invoke Seri's AI Coach, your goal text is transmitted securely to our Supabase Edge Function to generate general habit and productivity suggestions via Google Gemini. Seri does not provide medical, clinical, or psychiatric advice.</li>
+      <li><strong>Advertising Identifiers:</strong> Free-tier versions of our apps use <strong>Google AdMob</strong> to display banner, interstitial, or opt-in rewarded advertisements (<em>Seri</em> uses opt-in rewarded ads only). Google AdMob may collect device identifiers (such as the Android Advertising ID), coarse location, and diagnostics for ad serving, fraud prevention, and consent management (Google UMP / TCF v2.2).</li>
+      <li><strong>In-App Purchases &amp; Subscriptions:</strong> All subscriptions and one-time purchases are processed securely through <strong>Google Play Billing</strong> (and optional server-side entitlement sync via <strong>RevenueCat</strong> / Supabase). We never access or store your credit card or banking details.</li>
+      <li><strong>Crash Reporting &amp; Privacy-Safe Analytics:</strong> Apps may use Firebase Crashlytics &amp; Analytics, <strong>Sentry</strong> (PII-scrubbed crash reports), or <strong>PostHog EU</strong> (anonymous funnel metrics without personal habit titles or notes) to fix bugs and improve stability. In <em>Seri</em>, you can opt out of anonymous product analytics anytime under <em>Settings</em>.</li>
     </ul>
     <h2>2. Permissions</h2>
     <ul>
+      <li><strong>Physical Activity / Step Counter (<code>ACTIVITY_RECOGNITION</code>, Optional in Seri):</strong> Requested only after prominent in-app disclosure if you create an automatic step-tracking habit. Reads only daily step count from the hardware sensor.</li>
       <li><strong>Photos / Media / Camera (Optional):</strong> Used strictly on-device when you choose an image for OCR scanning (SnapMind) or apply/save a wallpaper (Wallify, LumiaWalls).</li>
-      <li><strong>Internet &amp; Billing:</strong> Used to load content, process Google Play purchases, and display advertisements.</li>
+      <li><strong>Internet, Notifications &amp; Billing:</strong> Used to schedule reminders, sync optional cloud backups, process Google Play purchases, and display advertisements.</li>
     </ul>
     <h2>3. Data Retention &amp; Deletion</h2>
-    <p>Local application data can be deleted at any time by clearing the app's storage or uninstalling the application from your device. If an app provides optional cloud leaderboard or profile features, you may request deletion of associated records at any time by emailing <a href="mailto:melihdokuzlar71@gmail.com">melihdokuzlar71@gmail.com</a>.</p>
+    <p>Local application data can be deleted at any time by clearing the app's storage or uninstalling the application from your device. For <strong>Seri</strong> cloud accounts, you can permanently delete your account and all server-side data instantaneously inside the app (<em>Settings &rarr; Cloud Account &rarr; Permanently Delete Account &amp; Cloud Data</em>) or via our dedicated <a href="https://melih-cell.github.io/seri-delete-account.html">Seri Account &amp; Data Deletion page</a>. For any other Veloce Labs app, email <a href="mailto:melihdokuzlar71@gmail.com">melihdokuzlar71@gmail.com</a>.</p>
     <h2>4. Children's Privacy</h2>
     <p>Our applications do not knowingly collect personally identifiable information from children under the age of 13. Users can reset or opt out of personalized advertising in their Android device settings (<em>Settings &rarr; Google &rarr; Ads</em>).</p>
     <h2>5. Third-Party Privacy Policies</h2>
     <ul>
-      <li><a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google Play Services &amp; AdMob Privacy Policy</a></li>
+      <li><a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google Play Services, Gemini &amp; AdMob Privacy Policy</a></li>
+      <li><a href="https://supabase.com/privacy" target="_blank" rel="noopener">Supabase Privacy Policy</a></li>
+      <li><a href="https://sentry.io/privacy/" target="_blank" rel="noopener">Sentry Privacy Policy</a> &bull; <a href="https://posthog.com/privacy" target="_blank" rel="noopener">PostHog Privacy Policy</a> &bull; <a href="https://www.revenuecat.com/privacy/" target="_blank" rel="noopener">RevenueCat Privacy Policy</a></li>
       <li><a href="https://firebase.google.com/support/privacy" target="_blank" rel="noopener">Firebase Privacy and Security</a></li>
     </ul>
     <h2>6. Contact Us</h2>
