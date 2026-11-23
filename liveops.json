@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-20T17:06:32.742Z",
+  "updatedAt": "2026-11-23T01:19:27.048Z",
   "studioCatalog": [
     {
       "id": "snapmind",
@@ -35,8 +35,8 @@
       "packageName": "com.melih.bilgiarenasi",
       "nameTr": "Bilgi Arenası: Bilgi Yarışması",
       "nameEn": "Bilgi Arenası: Trivia Leagues",
-      "taglineTr": "18 kategoride 3.000+ soru, günlük görevler, düellolar ve lig kupaları.",
-      "taglineEn": "3,000+ trivia questions across 18 categories, daily quests & leagues.",
+      "taglineTr": "18 kategoride 4.300+ soru, 12 katlı Bilgi Kulesi, düellolar ve lig kupaları.",
+      "taglineEn": "4,300+ trivia questions across 18 categories, 12-floor tower & leagues.",
       "badgeTr": "Bilgi Oyunu",
       "badgeEn": "Trivia Game",
       "iconEmoji": "🏆",
@@ -204,8 +204,8 @@
       "crossPromo": {
         "enabled": true
       },
-      "pendingVersionCode": 11,
-      "pendingVersionName": "2.0.0"
+      "pendingVersionCode": 12,
+      "pendingVersionName": "2.2.0"
     },
     "com.gotikgames.kizilkatedral": {
       "latestVersionCode": 4,
@@ -285,7 +285,9 @@
       },
       "crossPromo": {
         "enabled": true
-      }
+      },
+      "pendingVersionCode": 18,
+      "pendingVersionName": "5.2.0"
     },
     "com.kuryerota.app": {
       "latestVersionCode": 2,
@@ -311,8 +313,8 @@
       }
     },
     "com.melih.kivilcim": {
-      "latestVersionCode": 2,
-      "latestVersionName": "1.1.0",
+      "latestVersionCode": 3,
+      "latestVersionName": "1.1.1",
       "minSupportedVersionCode": 1,
       "maintenanceMode": false,
       "maintenanceMessage": "",
