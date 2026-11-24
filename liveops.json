@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T00:02:06.212Z",
+  "updatedAt": "2026-11-24T13:17:31.599Z",
   "studioCatalog": [
     {
       "id": "snapmind",
@@ -263,8 +263,8 @@
       }
     },
     "com.melihdokuzlar.seri": {
-      "latestVersionCode": 17,
-      "latestVersionName": "5.1.0",
+      "latestVersionCode": 19,
+      "latestVersionName": "5.3.0",
       "minSupportedVersionCode": 1,
       "ads": {
         "enabled": true,
@@ -284,9 +284,7 @@
       },
       "crossPromo": {
         "enabled": true
-      },
-      "pendingVersionCode": 19,
-      "pendingVersionName": "5.3.0"
+      }
     },
     "com.kuryerota.app": {
       "latestVersionCode": 2,
