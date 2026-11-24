@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-23T14:12:35.520Z",
+  "updatedAt": "2026-11-24T00:02:06.212Z",
   "studioCatalog": [
     {
       "id": "snapmind",
@@ -318,12 +318,13 @@
       "maintenanceMode": false,
       "maintenanceMessage": "",
       "pushFunctionUrl": "https://lhtehujkxrgexihlmngr.supabase.co/functions/v1/kivilcim-push",
+      "opsFunctionUrl": "https://lhtehujkxrgexihlmngr.supabase.co/functions/v1/kivilcim-ops",
       "ads": {
         "enabled": true,
         "bannerEnabled": false,
         "interstitialEnabled": true,
         "rewardedEnabled": true,
-        "interstitialEveryN": 3,
+        "interstitialEveryN": 15,
         "interstitialCooldownSec": 180,
         "interstitialUnitId": "ca-app-pub-7243391327243727/1914360541",
         "rewardedUnitId": "ca-app-pub-7243391327243727/2690713608"
@@ -346,7 +347,9 @@
       },
       "crossPromo": {
         "enabled": true
-      }
+      },
+      "pendingVersionCode": 4,
+      "pendingVersionName": "2.0.0"
     },
     "com.velocestudio.wallify": {
       "latestVersionCode": 1,
