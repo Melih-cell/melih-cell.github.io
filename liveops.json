@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T13:17:31.599Z",
+  "updatedAt": "2026-11-24T15:19:33.508Z",
   "studioCatalog": [
     {
       "id": "snapmind",
@@ -103,14 +103,14 @@
     {
       "id": "kivilcim",
       "packageName": "com.melih.kivilcim",
-      "nameTr": "Vela",
-      "nameEn": "Vela",
-      "taglineTr": "Vela - Modern dating and chat app",
-      "taglineEn": "Vela - Modern dating and chat app",
-      "badgeTr": "Yakında",
-      "badgeEn": "Coming Soon",
-      "iconEmoji": "📱",
-      "accentColor": "#38BDF8",
+      "nameTr": "Vela: Gerçek Tanışma & Sohbet",
+      "nameEn": "Vela: Meet & Real Chat",
+      "taglineTr": "Doğrulanmış 18+ profiller, 15 sn gerçek sesli mesajlar, buluşma davetleri ve ~3 km gizlilik.",
+      "taglineEn": "Verified 18+ profiles, 15s real voice notes, date invites, and privacy-first matching.",
+      "badgeTr": "Sosyal & Tanışma",
+      "badgeEn": "Social & Dating",
+      "iconEmoji": "💘",
+      "accentColor": "#FF4D6D",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.melih.kivilcim",
       "isLive": false
     }
@@ -346,8 +346,8 @@
       "crossPromo": {
         "enabled": true
       },
-      "pendingVersionCode": 4,
-      "pendingVersionName": "2.0.0"
+      "pendingVersionCode": 5,
+      "pendingVersionName": "2.1.0"
     },
     "com.velocestudio.wallify": {
       "latestVersionCode": 1,
