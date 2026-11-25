@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T15:19:33.508Z",
+  "updatedAt": "2026-11-25T13:52:02.530Z",
   "studioCatalog": [
     {
       "id": "snapmind",
@@ -346,8 +346,8 @@
       "crossPromo": {
         "enabled": true
       },
-      "pendingVersionCode": 5,
-      "pendingVersionName": "2.1.0"
+      "pendingVersionCode": 6,
+      "pendingVersionName": "3.0.0"
     },
     "com.velocestudio.wallify": {
       "latestVersionCode": 1,
