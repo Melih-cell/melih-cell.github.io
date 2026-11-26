@@ -125,15 +125,15 @@
         "interstitialCooldownSec": 180
       },
       "promoBanner": {
-        "enabled": false,
-        "id": "welcome_2026",
-        "titleTr": "",
-        "titleEn": "",
-        "subtitleTr": "",
-        "subtitleEn": "",
-        "ctaTextTr": "İncele",
-        "ctaTextEn": "Explore",
-        "targetUrl": ""
+        "enabled": true,
+        "id": "seri_v54_crosspromo_2026",
+        "titleTr": "Seri: Reklamsız Alışkanlık & Odak",
+        "titleEn": "Seri: Calm Habit & Focus Timer",
+        "subtitleTr": "70 günlük zincir, 3 Android widget ve 7 gün ücretsiz Seri Pro denemesi.",
+        "subtitleEn": "70-day streak grid, 3 Android widgets & 7-day free Seri Pro trial.",
+        "ctaTextTr": "Ücretsiz Dene",
+        "ctaTextEn": "Try Free",
+        "targetUrl": "https://play.google.com/store/apps/details?id=com.melihdokuzlar.seri"
       },
       "crossPromo": {
         "enabled": true
@@ -168,15 +168,15 @@
         "aiUnlockCost": 40
       },
       "promoBanner": {
-        "enabled": false,
-        "id": "welcome_2026",
-        "titleTr": "",
-        "titleEn": "",
-        "subtitleTr": "",
-        "subtitleEn": "",
-        "ctaTextTr": "İncele",
-        "ctaTextEn": "Explore",
-        "targetUrl": ""
+        "enabled": true,
+        "id": "seri_v54_crosspromo_2026",
+        "titleTr": "Seri: Reklamsız Alışkanlık & Odak",
+        "titleEn": "Seri: Calm Habit & Focus Timer",
+        "subtitleTr": "70 günlük zincir, 3 Android widget ve 7 gün ücretsiz Seri Pro denemesi.",
+        "subtitleEn": "70-day streak grid, 3 Android widgets & 7-day free Seri Pro trial.",
+        "ctaTextTr": "Ücretsiz Dene",
+        "ctaTextEn": "Try Free",
+        "targetUrl": "https://play.google.com/store/apps/details?id=com.melihdokuzlar.seri"
       },
       "crossPromo": {
         "enabled": true
@@ -191,15 +191,15 @@
         "interstitialCooldownSec": 180
       },
       "promoBanner": {
-        "enabled": false,
-        "id": "welcome_2026",
-        "titleTr": "",
-        "titleEn": "",
-        "subtitleTr": "",
-        "subtitleEn": "",
-        "ctaTextTr": "İncele",
-        "ctaTextEn": "Explore",
-        "targetUrl": ""
+        "enabled": true,
+        "id": "seri_v54_crosspromo_2026",
+        "titleTr": "Seri: Reklamsız Alışkanlık & Odak",
+        "titleEn": "Seri: Calm Habit & Focus Timer",
+        "subtitleTr": "70 günlük zincir, 3 Android widget ve 7 gün ücretsiz Seri Pro denemesi.",
+        "subtitleEn": "70-day streak grid, 3 Android widgets & 7-day free Seri Pro trial.",
+        "ctaTextTr": "Ücretsiz Dene",
+        "ctaTextEn": "Try Free",
+        "targetUrl": "https://play.google.com/store/apps/details?id=com.melihdokuzlar.seri"
       },
       "crossPromo": {
         "enabled": true
@@ -215,15 +215,15 @@
         "interstitialCooldownSec": 180
       },
       "promoBanner": {
-        "enabled": false,
-        "id": "welcome_2026",
-        "titleTr": "",
-        "titleEn": "",
-        "subtitleTr": "",
-        "subtitleEn": "",
-        "ctaTextTr": "İncele",
-        "ctaTextEn": "Explore",
-        "targetUrl": ""
+        "enabled": true,
+        "id": "seri_v54_crosspromo_2026",
+        "titleTr": "Seri: Reklamsız Alışkanlık & Odak",
+        "titleEn": "Seri: Calm Habit & Focus Timer",
+        "subtitleTr": "70 günlük zincir, 3 Android widget ve 7 gün ücretsiz Seri Pro denemesi.",
+        "subtitleEn": "70-day streak grid, 3 Android widgets & 7-day free Seri Pro trial.",
+        "ctaTextTr": "Ücretsiz Dene",
+        "ctaTextEn": "Try Free",
+        "targetUrl": "https://play.google.com/store/apps/details?id=com.melihdokuzlar.seri"
       },
       "crossPromo": {
         "enabled": true
