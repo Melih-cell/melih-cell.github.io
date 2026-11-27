@@ -265,6 +265,8 @@
     "com.melihdokuzlar.seri": {
       "latestVersionCode": 19,
       "latestVersionName": "5.3.0",
+      "pendingVersionCode": 20,
+      "pendingVersionName": "5.4.0",
       "minSupportedVersionCode": 1,
       "ads": {
         "enabled": true,
